@@ -3,3 +3,4 @@ este
 o meu script
 com performance
 novos ajustes
+mais ajustes
