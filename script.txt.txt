@@ -1,3 +1,4 @@
 este
 é 
 o meu script
+com performance
